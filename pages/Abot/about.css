@@ -86,9 +86,11 @@
   background-position: center;
   border-radius: 12px;
 }
-p
-/* Video IMG end */
 
+/* Video IMG end */
+.rectangle {
+  margin-bottom: 9.6rem;
+}
 .rectangle-container {
   margin-top: -220px;
   padding-top: 320px;
