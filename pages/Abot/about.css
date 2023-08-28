@@ -89,12 +89,12 @@
 
 /* Video IMG end */
 .rectangle {
+  background: #eff7f2;
   margin-bottom: 9.6rem;
 }
 .rectangle-container {
   margin-top: -220px;
   padding-top: 320px;
-  background: #eff7f2;
 }
 
 .rectangle-list {
